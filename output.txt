@@ -1,1 +1,2 @@
-Largest Element is :- 46
+Second smallest :- 4
+Second largest :- 45
