@@ -1,2 +1,1 @@
-Second smallest :- 4
-Second largest :- 45
+position of 6 is 1
