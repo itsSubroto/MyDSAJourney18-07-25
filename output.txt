@@ -1,1 +1,1 @@
-the missing no is :- 4
+the maximum occurrence of 1 is :- 2
