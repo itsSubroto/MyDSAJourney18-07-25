@@ -1,1 +1,1 @@
-the maximum occurrence of 1 is :- 2
+the single occurrence element is :- 6
