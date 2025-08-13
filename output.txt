@@ -1,1 +1,1 @@
-the single occurrence element is :- 6
+the longest sub Array is :- 3
