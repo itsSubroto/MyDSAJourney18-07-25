@@ -1,2 +1,1 @@
-
-the longest sub Array is :- 3
+The floor of 12 is -> 10 && ceil is -> -1
