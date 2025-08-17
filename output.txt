@@ -1,1 +1,1 @@
-The floor of 12 is -> 10 && ceil is -> -1
+The target is not present in the array.
